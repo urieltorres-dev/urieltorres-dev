@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hernando Uriel Torres de Luna</h1>
-<h3 align="center">A passionate backend developer from Mexico</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Mexico</h3>
 
 - 🌱 I’m currently learning **Laravel**
 
