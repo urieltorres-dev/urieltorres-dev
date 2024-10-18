@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+everyone!+I'm+Uriel+Torres;Full-Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+everyone!+I'm+Uriel+Torres;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" alt="Pixel Art" align="right" width="200">
 
