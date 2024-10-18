@@ -20,7 +20,7 @@
   <!-- Estoy aprendiendo las siguientes tecnologias:
   <img align="center" alt="React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   -->
-</div><br>
+</div><br><br>
 
 ### GitHub Stats
 
